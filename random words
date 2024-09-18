@@ -1,0 +1,5 @@
+import random
+
+list_of_laptops=["Lenovo","Asus","Acer","Dell","HP"]
+
+print(random.choice(list_of_laptops))
